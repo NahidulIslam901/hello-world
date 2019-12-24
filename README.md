@@ -4,4 +4,4 @@
 
 hi i am nahid
 
-i am interested to learn python 
+i am interested to learn python not java
